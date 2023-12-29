@@ -1,0 +1,29 @@
+html{
+    margin-bottom: 20px;
+    margin-top: 20px;
+    background-color: rgb(255, 255, 255);
+    align-items: center;
+}
+ #shadow {
+        text-shadow: 3px 3px 2px rgba(0, 0, 0, 0.5);
+      }
+
+#image{
+    width: 200px;
+    height: 150px;
+}
+body{
+    background-color: blanchedalmond;
+    width: 520px;
+    height: 1160px;
+    border: 5px solid black;
+    align-items: center;
+    margin: 0 auto;
+    padding: 0 50px 70px 30px;
+}
+#Contact{
+    height: auto;
+}
+#About{
+    height: auto;
+}
